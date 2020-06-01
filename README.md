@@ -1,6 +1,8 @@
 # 数据库系统概念
 ![Demo](https://i.loli.net/2020/06/01/ZMxIN1PkDJbH7zQ.png)
 
+[Source](https://www.db-book.com/db6/lab-dir/sample_tables-dir/index.html)
+
 ## Usage
 
 Take the smallRelationsInsertFile as an example
